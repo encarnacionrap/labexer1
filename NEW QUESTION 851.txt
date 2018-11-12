@@ -1,0 +1,81 @@
+Which command is used to override the priority of frames arriving on the Cisco IP phone port?
+
+A.	mls qos dscp
+B.	mls qos cos
+C.	switchport priority extend trust
+
+Answer: C
+
+NEW QUESTION 852
+Which two commands do you enter to add VLAN 20 on a switch VLAN configuration file? (Choose two.)
+
+A.	switchport trunk native vlan 20
+B.	switchport access vlan 20
+C.	vlan 20
+D.	switchport trfunk allowed vlan 20
+E.	encapsulation dot1q 20
+
+Answer: BC
+
+NEW QUESTION 853
+Which command is used to determine the native VLAN on a trunk?
+
+A.	show vlan
+B.	show vlan trunk
+C.	show interface trunk
+D.	show ip interface vlan
+
+Answer: C
+
+NEW QUESTION 854
+Which commacdvnd disables STP on multiple interfaces?
+
+A.	no spanning-tree vlan 10
+B.	no spanning-tree pvst
+C.	no spanning-tree mst
+
+Answer: A
+
+NEW QUESTION 855
+Which centralizced database separates between AAA attributes?
+
+A.	TACACS+
+B.	RADIUS
+C.	Local Database
+
+Answer: A
+
+NEW QUESTION 856
+Which command apply fast forwarding on all ports?
+
+A.	spanning-tree portfast
+B.	spanning-tree portfast default
+
+Answer: B
+
+NEW QUESTION 857
+Which command apply to verify errdisable on any interface?
+
+A.	show err-dcdisable detect
+B.	show interfacecds err-disable status
+
+Answer: B
+
+NEW QUESTION 858
+What happens when configuring VLAN on switches running VTP server mode?
+
+A.	Host on the switch without router can communicate with other on the same VLAN.
+B.	VLAN created fircst will be native VLAN.
+C.	VLAN created shoulscd be propagated on switch on the same domain.
+
+Answer: C
+
+NEW QUESTION 859
+Which statement is true about tracking with VRRP?
+
+A.	Track on interface and route
+B.	Track only interscface
+C.	Track only route
+D.	Only one track per group
+
+Answer: B
